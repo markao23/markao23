@@ -65,7 +65,9 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 
 ## Estatísticas do GitHub 📊
 
-![GitHub Metrics](metrics.svg)
+<div align="center">
+  <img src="http://github-readme-stats.vercel.app/api?username=[markao23]&show_icons=true&theme=dracula" alt="Estatísticas do GitHub"/>
+</div>
 
 ## Contato 📬
 
