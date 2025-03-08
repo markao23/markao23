@@ -71,6 +71,6 @@ pro equando esse é o projeto eu tenho
 ## Contato 📬
 
 * **Email:** [markuszi3897@outlook.com]
-* **Discord:**[markao124]
+* **Discord:** [markao124]
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Obrigado pela visita! 😊
