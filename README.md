@@ -62,7 +62,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho usado utima
 * **[website pro arca]:** [esse saite to criando pra uma organização de carros antigos de catanduva e ta em processo(https://github.com/markao23/web_arca_Qwink)].
 pro equando esse é o projeto eu tenho 
 
-![imagem inicial](/imagem da tela inicial.png)
+![imagem inicial](/tela-inicial.png)
 
 ## Estatísticas do GitHub 📊
 
